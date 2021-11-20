@@ -2,3 +2,4 @@ TextAD
 BranchBD
 BranchCD
 ConflictX
+ConflictEFG
